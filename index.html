@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sales Prediction Dashboard</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Sales Prediction Dashboard</h1>
+    <form action="/predict" method="post">
+        <label for="store_id">Store ID:</label>
+        <input type="text" id="store_id" name="store_id"><br><br>
+        
+        <label for="is_holiday">Is Holiday:</label>
+        <input type="checkbox" id="is_holiday" name="is_holiday" value="Yes"><br><br>
+        
+        <label for="is_weekend">Is Weekend:</label>
+        <input type="checkbox" id="is_weekend" name="is_weekend" value="Yes"><br><br>
+        
+        <label for="is_promo">Is Promo:</label>
+        <input type="checkbox" id="is_promo" name="is_promo" value="Yes"><br><br>
+        
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if prediction_text %}
+    <div class="prediction-section">
+        <h2>{{ prediction_text }}</h2>
+        <img src="data:image/png;base64,{{ prediction_plot }}" alt="Prediction Plot" class="plot">
+    </div>
+    <div class="visualization-section">
+        <div class="plot-container">
+            <h3>Exploratory Data Analysis (EDA)</h3>
+            <img src="data:image/png;base64,{{ eda_plot }}" alt="EDA Plot" class="plot">
+        </div>
+        <div class="plot-container">
+            <h3>Feature Coefficients</h3>
+            <img src="data:image/png;base64,{{ feature_coefficients_plot }}" alt="Feature Coefficients Plot" class="plot">
+        </div>
+        <div class="plot-container">
+            <h3>Comparisons</h3>
+            <img src="data:image/png;base64,{{ comparisons_plot }}" alt="Comparisons Plot" class="plot">
+        </div>
+    </div>
+    {% endif %}
+</body>
+</html>
