@@ -1,0 +1,176 @@
+2024-03-23 21:03:27,734 - data_analysis.logger - INFO - Program started.
+2024-03-23 21:03:27,734:INFO:Program started.
+2024-03-23 21:03:27,734 - data_analysis.logger - INFO - Starting my_function...
+2024-03-23 21:03:27,734:INFO:Starting my_function...
+2024-03-23 21:03:27,734 - data_analysis.logger - INFO - Result: 5.0
+2024-03-23 21:03:27,734:INFO:Result: 5.0
+2024-03-23 21:03:27,734 - data_analysis.logger - INFO - Finished my_function.
+2024-03-23 21:03:27,734:INFO:Finished my_function.
+2024-03-23 21:03:27,742 - data_analysis.logger - INFO - Program finished.
+2024-03-23 21:03:27,742:INFO:Program finished.
+2024-03-23 21:03:29,470 - data_analysis.logger - INFO - Loading the merged train and test datasets.
+2024-03-23 21:03:29,470:INFO:Loading the merged train and test datasets.
+2024-03-23 21:04:31,516 - data_analysis.logger - INFO - Loading the merged train and test datasets.
+2024-03-23 21:04:31,516:INFO:Loading the merged train and test datasets.
+2024-03-23 21:06:06,601:INFO:Loading data...
+2024-03-23 21:06:06,601:INFO:Data loaded successfully.
+2024-03-23 21:07:59,249 - data_analysis.logger - INFO - Inspecting the data for initial analysis.
+2024-03-23 21:07:59,249:INFO:Inspecting the data for initial analysis.
+2024-03-23 21:07:59,251 - data_analysis.logger - INFO - Train dataset shape: (1017209, 18)
+2024-03-23 21:07:59,251:INFO:Train dataset shape: (1017209, 18)
+2024-03-23 21:07:59,254 - data_analysis.logger - INFO - Test dataset shape: (41088, 17)
+2024-03-23 21:07:59,254:INFO:Test dataset shape: (41088, 17)
+2024-03-23 21:10:02,985 - data_analysis.logger - INFO - Starting data cleaning...
+2024-03-23 21:10:02,985:INFO:Starting data cleaning...
+2024-03-23 21:10:47,443 - data_analysis.logger - INFO - Handled missing values.
+2024-03-23 21:10:47,443:INFO:Handled missing values.
+2024-03-23 21:27:16,537 - data_analysis.logger - INFO - Handled outliers.
+2024-03-23 21:27:16,537:INFO:Handled outliers.
+2024-03-23 21:28:00,856 - data_analysis.logger - INFO - Data cleaning completed successfully.
+2024-03-23 21:28:00,856:INFO:Data cleaning completed successfully.
+2024-03-23 21:29:04,328:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:29:04,356:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:29:04,504 - data_analysis.logger - INFO - Analyzed promo distribution 
+2024-03-23 21:29:04,504:INFO:Analyzed promo distribution 
+2024-03-23 21:29:13,134:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:29:13,152:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:29:13,302 - data_analysis.logger - INFO - Analyzed promo distribution 
+2024-03-23 21:29:13,302:INFO:Analyzed promo distribution 
+2024-03-23 21:29:37,786:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:29:38,540:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:30:37,702:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:30:38,301:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:32:54,232 - data_analysis.logger - INFO - Program started.
+2024-03-23 21:32:54,232:INFO:Program started.
+2024-03-23 21:32:54,240 - data_analysis.logger - INFO - Starting my_function...
+2024-03-23 21:32:54,240:INFO:Starting my_function...
+2024-03-23 21:32:54,240 - data_analysis.logger - INFO - Result: 5.0
+2024-03-23 21:32:54,240:INFO:Result: 5.0
+2024-03-23 21:32:54,240 - data_analysis.logger - INFO - Finished my_function.
+2024-03-23 21:32:54,240:INFO:Finished my_function.
+2024-03-23 21:32:54,248 - data_analysis.logger - INFO - Program finished.
+2024-03-23 21:32:54,248:INFO:Program finished.
+2024-03-23 21:32:54,266 - data_analysis.logger - INFO - Loading the merged train and test datasets.
+2024-03-23 21:32:54,266:INFO:Loading the merged train and test datasets.
+2024-03-23 21:32:57,016 - data_analysis.logger - INFO - Inspecting the data for initial analysis.
+2024-03-23 21:32:57,016:INFO:Inspecting the data for initial analysis.
+2024-03-23 21:32:57,017 - data_analysis.logger - INFO - Train dataset shape: (1017209, 18)
+2024-03-23 21:32:57,017:INFO:Train dataset shape: (1017209, 18)
+2024-03-23 21:32:57,017 - data_analysis.logger - INFO - Test dataset shape: (41088, 17)
+2024-03-23 21:32:57,017:INFO:Test dataset shape: (41088, 17)
+2024-03-23 21:32:57,033 - data_analysis.logger - INFO - Starting data cleaning...
+2024-03-23 21:32:57,033:INFO:Starting data cleaning...
+2024-03-23 21:32:57,407 - data_analysis.logger - INFO - Handled missing values.
+2024-03-23 21:32:57,407:INFO:Handled missing values.
+2024-03-23 21:32:57,563 - data_analysis.logger - INFO - Handled outliers.
+2024-03-23 21:32:57,563:INFO:Handled outliers.
+2024-03-23 21:32:58,916 - data_analysis.logger - INFO - Data cleaning completed successfully.
+2024-03-23 21:32:58,916:INFO:Data cleaning completed successfully.
+2024-03-23 21:33:12,468:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:33:12,483:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:33:12,724 - data_analysis.logger - INFO - Analyzed promo distribution 
+2024-03-23 21:33:12,724:INFO:Analyzed promo distribution 
+2024-03-23 21:33:14,359:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:33:15,243:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:34:05,831 - data_analysis.logger - INFO - Analyzed sales behavior around holidays.
+2024-03-23 21:34:05,831:INFO:Analyzed sales behavior around holidays.
+2024-03-23 21:34:06,912 - data_analysis.logger - INFO - Calculating correlation matrix...
+2024-03-23 21:34:06,912:INFO:Calculating correlation matrix...
+2024-03-23 21:34:06,928 - data_analysis.logger - INFO - Correlation matrix calculated.
+2024-03-23 21:34:06,928:INFO:Correlation matrix calculated.
+2024-03-23 21:35:21,289:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:35:21,296:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-03-23 21:35:32,560:DEBUG:this is debug
+2024-03-23 21:35:32,584 - data_analysis.logger - INFO - EDA process completed
+2024-03-23 21:35:32,584:INFO:EDA process completed
+2024-03-23 21:35:32,613 - data_analysis.logger - WARNING - this is warning
+2024-03-23 21:35:32,613:WARNING:this is warning
+2024-03-23 21:35:32,635 - data_analysis.logger - ERROR - This is error
+2024-03-23 21:35:32,635:ERROR:This is error
+2024-03-23 21:35:34,177 - data_analysis.logger - CRITICAL - this is critical
+2024-03-23 21:35:34,177:CRITICAL:this is critical
+2024-03-23 21:36:21,482 - data_analysis.logger - INFO - Comparing sales behavior around holidays.
+2024-03-23 21:36:21,482:INFO:Comparing sales behavior around holidays.
+2024-03-23 21:36:21,482 - data_analysis.logger - INFO - Analyzing seasonal purchase behaviors.
+2024-03-23 21:36:21,482:INFO:Analyzing seasonal purchase behaviors.
+2024-03-23 21:36:21,490 - data_analysis.logger - INFO - Exploring the correlation between sales and number of customers.
+2024-03-23 21:36:21,490:INFO:Exploring the correlation between sales and number of customers.
+2024-03-23 21:36:21,490 - data_analysis.logger - INFO - Analyzing the effect of promotions on sales and customer attraction.
+2024-03-23 21:36:21,490:INFO:Analyzing the effect of promotions on sales and customer attraction.
+2024-03-23 21:36:21,490 - data_analysis.logger - INFO - Studying trends of customer behavior during store opening times.
+2024-03-23 21:36:21,490:INFO:Studying trends of customer behavior during store opening times.
+2024-03-23 21:36:21,499 - data_analysis.logger - INFO - Identifying stores opened throughout the week and their impact on weekend sales.
+2024-03-23 21:36:21,499:INFO:Identifying stores opened throughout the week and their impact on weekend sales.
+2024-03-23 21:36:21,501 - data_analysis.logger - INFO - Analyzing how assortment types affect sales.
+2024-03-23 21:36:21,501:INFO:Analyzing how assortment types affect sales.
+2024-03-23 21:36:21,502 - data_analysis.logger - INFO - Studying the impact of competitor distance on sales.
+2024-03-23 21:36:21,502:INFO:Studying the impact of competitor distance on sales.
+2024-03-23 21:36:21,502 - data_analysis.logger - INFO - Evaluating the effect of new competitors on existing stores.
+2024-03-23 21:36:21,502:INFO:Evaluating the effect of new competitors on existing stores.
+2024-04-02 22:25:40,434 - data_analysis.logger - INFO - Program started.
+2024-04-02 22:25:40,434:INFO:Program started.
+2024-04-02 22:25:40,444 - data_analysis.logger - INFO - Starting my_function...
+2024-04-02 22:25:40,444:INFO:Starting my_function...
+2024-04-02 22:25:40,446 - data_analysis.logger - INFO - Result: 5.0
+2024-04-02 22:25:40,446:INFO:Result: 5.0
+2024-04-02 22:25:40,446 - data_analysis.logger - INFO - Finished my_function.
+2024-04-02 22:25:40,446:INFO:Finished my_function.
+2024-04-02 22:25:40,446 - data_analysis.logger - INFO - Program finished.
+2024-04-02 22:25:40,446:INFO:Program finished.
+2024-04-02 22:25:40,469 - data_analysis.logger - INFO - Loading the merged train and test datasets.
+2024-04-02 22:25:40,469:INFO:Loading the merged train and test datasets.
+2024-04-02 22:25:42,993 - data_analysis.logger - INFO - Inspecting the data for initial analysis.
+2024-04-02 22:25:42,993:INFO:Inspecting the data for initial analysis.
+2024-04-02 22:25:42,993 - data_analysis.logger - INFO - Train dataset shape: (1017209, 18)
+2024-04-02 22:25:42,993:INFO:Train dataset shape: (1017209, 18)
+2024-04-02 22:25:43,001 - data_analysis.logger - INFO - Test dataset shape: (41088, 17)
+2024-04-02 22:25:43,001:INFO:Test dataset shape: (41088, 17)
+2024-04-02 22:25:43,018 - data_analysis.logger - INFO - Starting data cleaning...
+2024-04-02 22:25:43,018:INFO:Starting data cleaning...
+2024-04-02 22:25:43,559 - data_analysis.logger - INFO - Handled missing values.
+2024-04-02 22:25:43,559:INFO:Handled missing values.
+2024-04-02 22:25:43,725 - data_analysis.logger - INFO - Handled outliers.
+2024-04-02 22:25:43,725:INFO:Handled outliers.
+2024-04-02 22:25:45,018 - data_analysis.logger - INFO - Data cleaning completed successfully.
+2024-04-02 22:25:45,018:INFO:Data cleaning completed successfully.
+2024-04-02 22:25:59,205:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-04-02 22:25:59,230:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-04-02 22:25:59,389 - data_analysis.logger - INFO - Analyzed promo distribution 
+2024-04-02 22:25:59,389:INFO:Analyzed promo distribution 
+2024-04-02 22:26:01,021:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-04-02 22:26:01,587:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-04-02 22:26:42,646 - data_analysis.logger - INFO - Analyzed sales behavior around holidays.
+2024-04-02 22:26:42,646:INFO:Analyzed sales behavior around holidays.
+2024-04-02 22:26:43,644 - data_analysis.logger - INFO - Calculating correlation matrix...
+2024-04-02 22:26:43,644:INFO:Calculating correlation matrix...
+2024-04-02 22:26:43,650 - data_analysis.logger - INFO - Correlation matrix calculated.
+2024-04-02 22:26:43,650:INFO:Correlation matrix calculated.
+2024-04-02 22:26:44,710:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-04-02 22:26:44,717:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-04-02 22:26:51,600 - data_analysis.logger - INFO - Comparing sales behavior around holidays.
+2024-04-02 22:26:51,600:INFO:Comparing sales behavior around holidays.
+2024-04-02 22:26:51,600 - data_analysis.logger - INFO - Analyzing seasonal purchase behaviors.
+2024-04-02 22:26:51,600:INFO:Analyzing seasonal purchase behaviors.
+2024-04-02 22:26:51,609 - data_analysis.logger - INFO - Exploring the correlation between sales and number of customers.
+2024-04-02 22:26:51,609:INFO:Exploring the correlation between sales and number of customers.
+2024-04-02 22:26:51,609 - data_analysis.logger - INFO - Analyzing the effect of promotions on sales and customer attraction.
+2024-04-02 22:26:51,609:INFO:Analyzing the effect of promotions on sales and customer attraction.
+2024-04-02 22:26:51,609 - data_analysis.logger - INFO - Studying trends of customer behavior during store opening times.
+2024-04-02 22:26:51,609:INFO:Studying trends of customer behavior during store opening times.
+2024-04-02 22:26:51,617 - data_analysis.logger - INFO - Identifying stores opened throughout the week and their impact on weekend sales.
+2024-04-02 22:26:51,617:INFO:Identifying stores opened throughout the week and their impact on weekend sales.
+2024-04-02 22:26:51,617 - data_analysis.logger - INFO - Analyzing how assortment types affect sales.
+2024-04-02 22:26:51,617:INFO:Analyzing how assortment types affect sales.
+2024-04-02 22:26:51,617 - data_analysis.logger - INFO - Studying the impact of competitor distance on sales.
+2024-04-02 22:26:51,617:INFO:Studying the impact of competitor distance on sales.
+2024-04-02 22:26:51,617 - data_analysis.logger - INFO - Evaluating the effect of new competitors on existing stores.
+2024-04-02 22:26:51,617:INFO:Evaluating the effect of new competitors on existing stores.
+2024-04-02 22:26:51,632:DEBUG:this is debug
+2024-04-02 22:26:51,660 - data_analysis.logger - INFO - EDA process completed
+2024-04-02 22:26:51,660:INFO:EDA process completed
+2024-04-02 22:26:51,677 - data_analysis.logger - WARNING - this is warning
+2024-04-02 22:26:51,677:WARNING:this is warning
+2024-04-02 22:26:51,706 - data_analysis.logger - ERROR - This is error
+2024-04-02 22:26:51,706:ERROR:This is error
+2024-04-02 22:26:51,725 - data_analysis.logger - CRITICAL - this is critical
+2024-04-02 22:26:51,725:CRITICAL:this is critical
