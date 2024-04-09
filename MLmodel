@@ -1,4 +1,4 @@
-artifact_path: linear_regression_model
+artifact_path: model
 flavors:
   python_function:
     env:
@@ -14,7 +14,7 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.4.1.post1
 mlflow_version: 2.11.3
-model_size_bytes: 821
-model_uuid: 2363a28c30df4af9a062928fef0acd0f
-run_id: 20ba4348bccd4b2c9b86d7c4445c1071
-utc_time_created: '2024-04-08 18:13:54.168365'
+model_size_bytes: 1755
+model_uuid: 3742b6e07d0743a688b451de68856f57
+run_id: aab5c80da91545eca6b54d689979fc9e
+utc_time_created: '2024-04-08 18:17:02.236342'
