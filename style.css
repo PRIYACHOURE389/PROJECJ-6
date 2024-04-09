@@ -1,0 +1,59 @@
+/* CSS styles for the Sales Prediction dashboard */
+
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    color: #333; /* Dark gray text */
+    font-family: Arial, sans-serif; /* Use Arial font */
+    padding: 20px; /* Add padding for content */
+}
+
+h1 {
+    color: #007bff; /* Blue heading color */
+    text-align: center; /* Center align heading */
+}
+
+form {
+    background-color: #fff; /* White form background */
+    padding: 20px; /* Add padding inside the form */
+    border-radius: 5px; /* Add rounded corners to the form */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+input[type="text"],
+select,
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #0000ff; /* Blue submit button */
+    color: #ffffff; /* White text */
+    cursor: pointer; /* Show pointer cursor on hover */
+}
+
+input[type="submit"]:hover {
+    background-color: #3900b3; /* Darker blue on hover */
+}
+
+.prediction-section {
+    margin-top: 50px;
+}
+
+.visualization-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.plot-container {
+    flex-basis: 30%; /* Set width for each plot container */
+}
+
+.plot {
+    width: 100%; /* Ensure plots fill their container */
+}
