@@ -1,8 +1,7 @@
 # Experiment Documentation
 """
-Experiment Name: Sales Prediction Model
-Author: [Your Name]
-Date: [Date]
+Experiment Name: Sales Prediction Mode
+
 
 Description:
 This experiment aims to build a machine learning model to predict sales based on various features such as store information, day of the week, promotions, and holidays. The dataset used for training and evaluation contains historical sales data from multiple stores.
